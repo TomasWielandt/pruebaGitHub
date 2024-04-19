@@ -1,3 +1,3 @@
-![imagen de prueba](Prueba\banner.png)
+![imagen de prueba](C:\Users\Williamson\Desktop\Prueba\banner.png)
 
 Prueba
