@@ -1,3 +1,3 @@
-![imagen de prueba](Prueba/Imagenes/banner)
+![imagen de prueba](Prueba/Imagenes/banner.png)
 
 **Prueba**
